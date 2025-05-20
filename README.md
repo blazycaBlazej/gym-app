@@ -1,3 +1,32 @@
+NOWE UI:
+
+
+<img 
+  src="https://github.com/user-attachments/assets/3d957fa1-9abd-48ab-aa15-f9bbed52b8fb"
+  width="30%" 
+/>
+
+<img 
+  src="https://github.com/user-attachments/assets/2b4ae024-e5c7-482c-8fb0-d1ef494ca20a"
+  width="30%" 
+/>
+
+<img 
+  src="https://github.com/user-attachments/assets/f80f4e0f-7ed3-494f-919f-aef280e020c6"
+  width="30%" 
+/>
+
+<img 
+  src="https://github.com/user-attachments/assets/3f640dc0-1685-4c7e-bd90-97374b40a36c"
+  width="30%" 
+/>
+
+<img 
+  src="https://github.com/user-attachments/assets/7b405608-404e-4f73-8346-69263a306d52"
+  width="30%" 
+/>
+
+STARE UI:
 
 <img 
   src="https://github.com/user-attachments/assets/0ebc1182-3a73-442e-aa09-7cc7c9ec1d18"
